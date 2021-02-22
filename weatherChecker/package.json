@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "nodemailer": "^6.4.17",
+    "request": "^2.88.2"
+  }
+}
