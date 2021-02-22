@@ -1,0 +1,1 @@
+# Mail trap, openweathermap API
